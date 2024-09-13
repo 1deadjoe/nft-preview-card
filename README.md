@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [NFT preview card- Github Solution](https://github.com/1deadjoe/nft-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [NF Preview Card](https://nft-preview-card-three-hazel.vercel.app/)
 
 ## My process
 
